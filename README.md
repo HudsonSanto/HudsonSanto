@@ -20,9 +20,11 @@ Vamos explorar dados juntos e criar um impacto significativo!
 
 •PL/SQL
 
+•Oracle, MySql
+
 •Power BI
 
-•Pandas, Numpy, Seaborn, Plotly
+•Pandas, Numpy, Seaborn, Plotly, matplotlib
 
 • Apache Spark, Apache Hadoop
 

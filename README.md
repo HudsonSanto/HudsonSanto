@@ -15,6 +15,7 @@ Olá, eu sou Hudson!
 Vamos explorar dados juntos e criar um impacto significativo!
 
 🚀Conhecimentos em:
+
 • Python, R, VBA, Java
 •PL/SQL
 •Power BI
